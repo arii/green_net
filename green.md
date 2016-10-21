@@ -1,4 +1,4 @@
-#MIT Green Labs Innovation Award Proposal
+#MIT DRL Green Labs Innovation Project
 
 Submitted by Daniel J. Preston and Ariel S. Anders
 
