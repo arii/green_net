@@ -135,7 +135,7 @@ Table 1. Experimentally measured power consumption of lab equipment in the DRL
 ###Energy Conservation Best Practices Test Lab
 
 We plan to use our fully-outfitted lab space to monitor energy consumption for nearly all of the equipment used in the lab, and we hope to eventually use this data gathering network not only for the ability to view energy consumption and remotely shut off equipment but also to test the efficacy of different methods to promote energy conservation.  For example, if we hang up signs in certain areas of the lab that encourage users to shut down equipment when not in use, we can quantitatively demonstrate the effect of the signage by referring to our recorded energy consumption metrics.  Therefore, this project has the potential to reveal the true efficacy of signage and other typical energy conservation promotion schemes by looking at the before-and-after energy consumption.  If we are able to utilize the quantitative energy use measurements to determine the efficacy of signage and other typical “green awareness” schemes, we could show whether these schemes are effective and also which methods are best – for example, what if posting signs is simply a waste of paper and doesn’t result in any less consumption?  What if the best method to promote sustainability is actually a weekly email or voting for a lab advocate?  We hope to find out, potentially as collaboration with experts in psychology or human behavior studies, which we plan to organize as a part of the Green Labs innovation award initiative.
-
+<!--
 ###MIT MechE Lab-Assist Program
 
 The MIT MechE Lab-Assist Program will draw on a small segment of the innovation award to promote “green” practices within our department.  Half of the \$400 in funding that is designated for the Lab-Assist Program will go to expanding the glove recycling program by purchasing 22 additional glove recycling bins, labeling the bins, and providing them to labs in the department along with signage.  There are already over 10 labs interested in joining the glove recycling program.  The other half of the Lab-Assist Program funding will be discretionary funding that will be provided to other labs in the departments for small projects that are innovative, creative, and get members of the department involved in conservation efforts.
@@ -284,3 +284,5 @@ Table 2. Proposed budget for the Green Labs innovation award funding.
 </tr>
 </tbody>
 </table>
+
+-->
